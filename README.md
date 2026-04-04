@@ -1,6 +1,6 @@
 # SirCustomAssetGraph
 
-# Ru - Версия настроек.
+## Ru - Версия настроек.
 *Основные настройки для плагина "SirCustomAssetGraph".*
 1. Добавить в Unreal Engine плагин ["SirCustomAssetGraph"]([https://docs.gitlab.com/user/project/repository/web_editor/#create-a-file](https://www.fab.com/ru/listings/fba37d0c-9894-4111-b85c-60c0b133e9d2)).
 2. Подключите плагин в своём проекте во вкладке plugins.
