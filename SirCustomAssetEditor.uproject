@@ -3,19 +3,19 @@
 	"EngineAssociation": "5.7",
 	"Category": "",
 	"Description": "",
-	"Modules": [
-		{
-			"Name": "SirCustomAssetEditor",
-			"Type": "Runtime",
-			"LoadingPhase": "Default"
-		}
-	],
 	"Plugins": [
 		{
 			"Name": "ModelingToolsEditorMode",
 			"Enabled": true,
 			"TargetAllowList": [
 				"Editor"
+			]
+		},
+		{
+			"Name": "SirCppCustomGraphAssetEditor",
+			"Enabled": true,
+			"SupportedTargetPlatforms": [
+				"Win64"
 			]
 		}
 	]
