@@ -13,3 +13,19 @@
 2. Connect the plugin to your project in the plugins tab.
 3. **!IMPORTANT!** In **"Asset Manager"** of your project, specify the path where the data assets will be located and set the type of data asset used to **"SirCppDataAssetAttrV3"**.
 4. In your project's **"Asset Manager"**, set the **"Cook Rule"** to **"Always Cook"**.
+
+Settings Asset Manager
+
+## Ru
+1. Добавьте Primary Asset Type = **SirCppDataAssetAttrV3**
+2. Измените Asset Base Class на **SirCppDataAssetAttrV3**
+3. **Добавьте путь к папке с Data Assets данными.**
+4. Правило **Cook Rule = Always Cook**
+
+## En
+1. Add new Primary Asset Type = **SirCppDataAssetAttrV3**
+2. Change Asset Base Class = **SirCppDataAssetAttrV3**
+3. **Add the path to the folder with your data asset data.**
+4. **Cook Rule = Always Cook**
+
+![image](SettingsAssetManager.png)
