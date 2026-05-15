@@ -50,4 +50,5 @@ Settings Asset Manager
 ![image](Pic/Function03.png)
 
 6. Игрок нажимает на виджет с ответом, виджет данный ответ возвращает в актор, где разработчик через функцию “**SirCppFindNodeGetAttrData00_UseTag**” может получить уникальный индекс ноды, которая подключена к данному ответу.
+
 ![image](Pic/Function04.png)
