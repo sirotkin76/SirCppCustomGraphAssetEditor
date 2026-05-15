@@ -29,3 +29,14 @@ Settings Asset Manager
 4. **Cook Rule = Always Cook**
 
 ![image](Pic/SettingsAssetManager.png)
+
+
+# Основные функции для работы с графом.
+## Ru
+
+*SirCppGetUniqueIndexFirstNode*
+1. Создаем пустой актор. Добавляем актор в мир с игрой. В акторе создаем переменную типа “SirCppCustomGraphAsset”.  
+2. Указываем в созданной переменной граф.  
+3. Из переменой с гафом получаем функцию “SirCppGetUniqueIndexFirstNode". На выходе данной функции получаем индекс первой ноды, которая подключена к ноде старт.
+
+![image](Pic/Function01.png)
