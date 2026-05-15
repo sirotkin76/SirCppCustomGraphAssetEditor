@@ -28,4 +28,4 @@ Settings Asset Manager
 3. **Add the path to the folder with your data asset data.**
 4. **Cook Rule = Always Cook**
 
-![image](SettingsAssetManager.png)
+![image](Pic/SettingsAssetManager.png)
