@@ -84,7 +84,7 @@ Settings Asset Manager
     
     **Continue node - Data asset** (Нода содержит в себе дата ассет)
 
-![image](Pic/Function06.png)
+![image](Pic/Function10.png)
 
 
 
