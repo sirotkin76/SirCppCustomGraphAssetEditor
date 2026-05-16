@@ -81,12 +81,12 @@ Settings Asset Manager
 10. Для построения тела графа имеются 2 ноды:
 
 ![image](Pic/Function10.png)
-    
-    **Continue node - Custom data** (Все параметры указываются внутри данной ноды)
+
+**Continue node - Custom data** (Все параметры указываются внутри данной ноды)
     
 ![image](Pic/Function08.png)
-    
-    **Continue node - Data asset** (Нода содержит в себе дата ассет)
+
+**Continue node - Data asset** (Нода содержит в себе дата ассет)
     
 ![image](Pic/Function09.png)
 
