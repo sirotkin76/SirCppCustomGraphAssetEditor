@@ -36,8 +36,11 @@ Settings Asset Manager
 
 1. Создаем пустой актор. Добавляем актор в мир с игрой. В акторе создаем переменную типа “SirCppCustomGraphAsset”.  
 2. Указываем в созданной переменной граф.
+3. Теперь вы можете получить из данной переменной все нужные функции, вытянете ноду и напишите **sircpp**
 
-3. Функция **SirCppGetUniqueIndexFirstNode** 
+![image](Pic/Function05.png)
+
+4. Функция **SirCppGetUniqueIndexFirstNode** 
 Из переменой с гафом получаем функцию “**SirCppGetUniqueIndexFirstNode**". На выходе данной функции получаем индекс первой ноды, которая подключена к ноде старт.
 
 ![image](Pic/Function01.png)
