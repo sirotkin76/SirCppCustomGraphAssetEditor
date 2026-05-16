@@ -41,7 +41,7 @@ Settings Asset Manager
 ![image](Pic/Function05.png)
 
 4. Функция **SirCppGetUniqueIndexFirstNode**.  
-Из переменой с гафом получаем функцию “**SirCppGetUniqueIndexFirstNode**". На выходе данной функции получаем индекс первой ноды, которая подключена к ноде старт.
+Из переменой с гафом получаем функцию “**SirCppGetUniqueIndexFirstNode**". На выходе данной функции получаем индекс первой ноды, которая подключена к ноде Start.
 
 ![image](Pic/Function01.png)
 
