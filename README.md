@@ -1,8 +1,8 @@
 # SirCustomAssetGraph
 
 ## Оглавление
-1. [Основные функции для работы с графом.](https://github.com/sirotkin76/SirCppCustomGraphAssetEditor/blob/main/README.md#ru-%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D1%8F)
-2. [Basic functions for working with a graph.](https://github.com/sirotkin76/SirCppCustomGraphAssetEditor/blob/main/README.md#basic-functions-for-working-with-a-graph)
+RU версия. [Основные функции для работы с графом.](https://github.com/sirotkin76/SirCppCustomGraphAssetEditor/blob/main/README.md#ru-%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D1%8F)
+EN version. [Basic functions for working with a graph.](https://github.com/sirotkin76/SirCppCustomGraphAssetEditor/blob/main/README.md#basic-functions-for-working-with-a-graph)
 
 ## Ru - Версия настроек.
 *Основные настройки для плагина "SirCustomAssetGraph".*
