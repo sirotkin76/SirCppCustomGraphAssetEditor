@@ -114,8 +114,8 @@ The player clicks on the widget with the answer, the widget returns this answer 
 
 
 ----------------------------------------------------------------------------------------
-# Базовые настройки плагина
-*Основные настройки для плагина "SirCustomAssetGraph".*
+# Основные настройки для плагина "SirCustomAssetGraph".
+
 1. Добавить в Unreal Engine плагин ["SirCustomAssetGraph"]([https://docs.gitlab.com/user/project/repository/web_editor/#create-a-file](https://www.fab.com/ru/listings/fba37d0c-9894-4111-b85c-60c0b133e9d2)).
 2. Подключите плагин в своём проекте во вкладке plugins.
 3. **!ВАЖНО!** Укажите в **"Asset Мanager"** своего проекта путь, где будут располагаться дата ассеты и установите тип используемого дата ассета **"SirCppDataAssetAttrV3"**.
