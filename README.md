@@ -31,7 +31,7 @@ Settings Asset Manager
 ![image](Pic/SettingsAssetManager.png)
 
 
-# Основные функции для работы с графом.
+# [Основные функции для работы с графом.] (https://github.com/sirotkin76/SirCppCustomGraphAssetEditor/blob/main/README.md#ru)
 ## Ru Версия
 
 1. Создаем пустой актор. Добавляем актор в мир с игрой. В акторе создаем переменную типа “SirCppCustomGraphAsset”.  
