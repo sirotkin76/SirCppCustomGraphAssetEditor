@@ -98,7 +98,13 @@ Settings Asset Manager
 
 ![image](Pic/Function11.png)
 
-12. 
+12. Все функции для ноды Continue Custom Data и Continue Data Asset
+
+![image](Pic/Function12.png)
+
+
+![image](Pic/Function13.png)
+
 
 
 
