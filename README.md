@@ -6,6 +6,22 @@
 3. [Настройка для "Asset Мanager".](https://github.com/sirotkin76/SirCppCustomGraphAssetEditor/blob/main/README.md#ru---%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D1%8F-%D0%BD%D0%B0%D1%81%D1%82%D1%80%D0%BE%D0%B5%D0%BA)
 4. [Setting up for "Asset Manager".](https://github.com/sirotkin76/SirCppCustomGraphAssetEditor/blob/main/README.md#en---settings-version) 
 
+## Базовые настройки плагина
+*Основные настройки для плагина "SirCustomAssetGraph".*
+1. Добавить в Unreal Engine плагин ["SirCustomAssetGraph"]([https://docs.gitlab.com/user/project/repository/web_editor/#create-a-file](https://www.fab.com/ru/listings/fba37d0c-9894-4111-b85c-60c0b133e9d2)).
+2. Подключите плагин в своём проекте во вкладке plugins.
+3. **!ВАЖНО!** Укажите в **"Asset Мanager"** своего проекта путь, где будут располагаться дата ассеты и установите тип используемого дата ассета **"SirCppDataAssetAttrV3"**.
+4. Установите в **"Asset Manager"** своего проекта правило для **"Cook Rule"** которое будет равно **"Always Cook"**.
+
+## Настройки Asset Manager
+1. Добавьте Primary Asset Type = **SirCppDataAssetAttrV3**
+2. Измените Asset Base Class на **SirCppDataAssetAttrV3**
+3. **Добавьте путь к папке с Data Assets данными.**
+4. Правило **Cook Rule = Always Cook**
+
+![image](Pic/SettingsAssetManager.png)
+
+
 # Основные функции для работы с графом.
 ## Ru Версия
 
@@ -97,6 +113,7 @@
 
 **SirCppFindNodeContinueGetData_01_FindArrClassUObject**
 - Возвращает класс объекта (Виджеты или класс для спавна)
+
 
 # Basic functions for working with a graph.
 ## En Version
