@@ -6,6 +6,22 @@
 3. [Настройка для "Asset Мanager".](https://github.com/sirotkin76/SirCppCustomGraphAssetEditor/blob/main/README.md#ru---%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D1%8F-%D0%BD%D0%B0%D1%81%D1%82%D1%80%D0%BE%D0%B5%D0%BA)
 4. [Setting up for "Asset Manager".](https://github.com/sirotkin76/SirCppCustomGraphAssetEditor/blob/main/README.md#en---settings-version) 
 
+## Base Settings.
+*Basic settings of the "SirCustomAssetGraph" plugin.*
+1. Add a plugin to Unreal Engine ["SirCustomAssetGraph"]([https://docs.gitlab.com/user/project/repository/web_editor/#create-a-file](https://www.fab.com/ru/listings/fba37d0c-9894-4111-b85c-60c0b133e9d2)).
+2. Connect the plugin to your project in the plugins tab.
+3. **!IMPORTANT!** In **"Asset Manager"** of your project, specify the path where the data assets will be located and set the type of data asset used to **"SirCppDataAssetAttrV3"**.
+4. In your project's **"Asset Manager"**, set the **"Cook Rule"** to **"Always Cook"**.
+
+Settings Asset Manager
+
+1. Add new Primary Asset Type = **SirCppDataAssetAttrV3**
+2. Change Asset Base Class = **SirCppDataAssetAttrV3**
+3. **Add the path to the folder with your data asset data.**
+4. **Cook Rule = Always Cook**
+
+![image](Pic/SettingsAssetManager.png)
+
 # Basic functions for working with a graph.
 ## En Version
 
@@ -98,21 +114,6 @@ The player clicks on the widget with the answer, the widget returns this answer 
 **SirCppFindNodeContinueGetData_01_FindArrClassUObject**
 - Returns the class of the object (Widgets or spawn class)
 
-## Base Settings.
-*Basic settings of the "SirCustomAssetGraph" plugin.*
-1. Add a plugin to Unreal Engine ["SirCustomAssetGraph"]([https://docs.gitlab.com/user/project/repository/web_editor/#create-a-file](https://www.fab.com/ru/listings/fba37d0c-9894-4111-b85c-60c0b133e9d2)).
-2. Connect the plugin to your project in the plugins tab.
-3. **!IMPORTANT!** In **"Asset Manager"** of your project, specify the path where the data assets will be located and set the type of data asset used to **"SirCppDataAssetAttrV3"**.
-4. In your project's **"Asset Manager"**, set the **"Cook Rule"** to **"Always Cook"**.
-
-Settings Asset Manager
-
-1. Add new Primary Asset Type = **SirCppDataAssetAttrV3**
-2. Change Asset Base Class = **SirCppDataAssetAttrV3**
-3. **Add the path to the folder with your data asset data.**
-4. **Cook Rule = Always Cook**
-
-![image](Pic/SettingsAssetManager.png)
 
 ## Базовые настройки плагина
 *Основные настройки для плагина "SirCustomAssetGraph".*
