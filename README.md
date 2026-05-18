@@ -113,6 +113,7 @@ The player clicks on the widget with the answer, the widget returns this answer 
 - Returns the class of the object (Widgets or spawn class)
 
 
+----------------------------------------------------------------------------------------
 ## Базовые настройки плагина
 *Основные настройки для плагина "SirCustomAssetGraph".*
 1. Добавить в Unreal Engine плагин ["SirCustomAssetGraph"]([https://docs.gitlab.com/user/project/repository/web_editor/#create-a-file](https://www.fab.com/ru/listings/fba37d0c-9894-4111-b85c-60c0b133e9d2)).
@@ -127,9 +128,6 @@ The player clicks on the widget with the answer, the widget returns this answer 
 4. Правило **Cook Rule = Always Cook**
 
 ![image](Pic/SettingsAssetManager.png)
-
-----------------------------------------------------------------------------------------
-
 
 # Основные функции для работы с графом.
 
