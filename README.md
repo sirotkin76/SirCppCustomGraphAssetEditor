@@ -1,5 +1,9 @@
 # SirCustomAssetGraph
 
+## Оглавление
+1. [Основные функции для работы с графом.](#введение)
+2. [Basic functions for working with a graph.](#установка)
+
 ## Ru - Версия настроек.
 *Основные настройки для плагина "SirCustomAssetGraph".*
 1. Добавить в Unreal Engine плагин ["SirCustomAssetGraph"]([https://docs.gitlab.com/user/project/repository/web_editor/#create-a-file](https://www.fab.com/ru/listings/fba37d0c-9894-4111-b85c-60c0b133e9d2)).
@@ -31,7 +35,7 @@ Settings Asset Manager
 ![image](Pic/SettingsAssetManager.png)
 
 
-# [Основные функции для работы с графом.] (https://github.com/sirotkin76/SirCppCustomGraphAssetEditor/blob/main/README.md#ru)
+# Основные функции для работы с графом.
 ## Ru Версия
 
 1. Создаем пустой актор. Добавляем актор в мир с игрой. В акторе создаем переменную типа “SirCppCustomGraphAsset”.  
