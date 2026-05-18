@@ -106,11 +106,24 @@ Settings Asset Manager
 
 ![image](Pic/Function13.png)
 
-**SirCppFindNodeContinueGetData_01_FindArrInt** - Возвращает целое число.
-**SirCppFindNodeContinueGetData_01_FindArrText** - Возвращает текст.
-**SirCppFindNodeContinueGetData_01_FindArrName** - Возвращает переменную типа Name (Используется для дата тейблов)
-**SirCppFindNodeContinueGetData_01_FindArrUObject** - Возвращает объяект (Например текстуры, материал или статик меш)
-**SirCppFindNodeContinueGetData_01_FindArrClassUObject** - Возвращает класс объяекта (Виджеты или класс для спавна)
+**ВАЖНО**: Наименование для каждого поля должны быть уникальными! Использовать имя **None** приведёт к ошибке, при попытке создать новое значение.
+
+**SirCppFindNodeContinueGetData_01_FindArrInt**
+- Возвращает целое число.
+
+**SirCppFindNodeContinueGetData_01_FindArrText**
+- Возвращает текст.
+
+**SirCppFindNodeContinueGetData_01_FindArrName**
+- Возвращает переменную типа Name (Используется для дата тейблов)
+
+**SirCppFindNodeContinueGetData_01_FindArrUObject**
+- Возвращает объяект (Например текстуры, материал или статик меш)
+
+**SirCppFindNodeContinueGetData_01_FindArrClassUObject**
+- Возвращает класс объяекта (Виджеты или класс для спавна)
+
+
 
 
 
