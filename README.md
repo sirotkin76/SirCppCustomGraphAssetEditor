@@ -102,6 +102,7 @@ Settings Asset Manager
 
 ![image](Pic/Function12.png)
 
+13. Обращаемся к данным в ноде Continue
 
 ![image](Pic/Function13.png)
 
