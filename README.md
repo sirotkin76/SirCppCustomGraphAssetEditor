@@ -6,7 +6,6 @@
 3. [Настройка для "Asset Мanager".](https://github.com/sirotkin76/SirCppCustomGraphAssetEditor/blob/main/README.md#ru---%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D1%8F-%D0%BD%D0%B0%D1%81%D1%82%D1%80%D0%BE%D0%B5%D0%BA)
 4. [Setting up for "Asset Manager".](https://github.com/sirotkin76/SirCppCustomGraphAssetEditor/blob/main/README.md#en---settings-version) 
 
-# Base Settings.
 ## Basic settings of the "SirCustomAssetGraph" plugin.
 1. Add a plugin to Unreal Engine ["SirCustomAssetGraph"]([https://docs.gitlab.com/user/project/repository/web_editor/#create-a-file](https://www.fab.com/ru/listings/fba37d0c-9894-4111-b85c-60c0b133e9d2)).
 2. Connect the plugin to your project in the plugins tab.
@@ -129,9 +128,10 @@ The player clicks on the widget with the answer, the widget returns this answer 
 
 ![image](Pic/SettingsAssetManager.png)
 
+----------------------------------------------------------------------------------------
+
 
 # Основные функции для работы с графом.
-## Ru Версия
 
 1. Создаем пустой актор. Добавляем актор в мир с игрой. В акторе создаем переменную типа “SirCppCustomGraphAsset”.  
 2. Указываем в созданной переменной граф.
