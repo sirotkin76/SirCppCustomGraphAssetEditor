@@ -219,9 +219,9 @@ The player clicks on the widget with the answer, the widget returns this answer 
 ----------------------------------------------------------------------------------------
 Видео по работе с плагином.
 
-[![Последовательная логика.](https://youtu.be/Lngcaj4lHWA)](https://youtu.be/Lngcaj4lHWA)
+[![Последовательная логика.](Pic/)](https://youtu.be/Lngcaj4lHWA)
 
-[![Логика с вариантами выбора. Диалоговая система.](https://youtu.be/bt_0cP8sHwE)](https://youtu.be/bt_0cP8sHwE)
+[![Логика с вариантами выбора. Диалоговая система.](Pic/ScreenDialogSystem.png)](https://youtu.be/bt_0cP8sHwE)
 
 
 
