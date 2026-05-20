@@ -222,9 +222,11 @@ The player clicks on the widget with the answer, the widget returns this answer 
 
 [![Последовательная логика.](Pic/ScreeMini-01.png)](https://youtu.be/Lngcaj4lHWA)
 
+Базовая логика по работе с последовательными нодами в графе.
+
 [![Логика с вариантами выбора. Диалоговая система.](Pic/ScreeMini-02.png)](https://youtu.be/bt_0cP8sHwE)
 
-
+Базовая логика для создания диалоговой системы с помощью графа.
 
 
 
