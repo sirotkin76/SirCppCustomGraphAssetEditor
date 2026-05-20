@@ -216,6 +216,12 @@ The player clicks on the widget with the answer, the widget returns this answer 
 **SirCppFindNodeContinueGetData_01_FindArrClassUObject**
 - Возвращает класс объекта (Виджеты или класс для спавна)
 
+----------------------------------------------------------------------------------------
+Видео по работе с плагином.
+
+[![Последовательная логика.](https://youtu.be/Lngcaj4lHWA)](https://youtu.be/Lngcaj4lHWA)
+
+[![Логика с вариантами выбора. Диалоговая система.](https://youtu.be/bt_0cP8sHwE)](https://youtu.be/bt_0cP8sHwE)
 
 
 
