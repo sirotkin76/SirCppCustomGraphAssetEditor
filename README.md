@@ -226,6 +226,8 @@ The player clicks on the widget with the answer, the widget returns this answer 
 ## Базовая логика для создания диалоговой системы с помощью графа.
 [![Логика с вариантами выбора. Диалоговая система.](Pic/ScreeMini-02.png)](https://youtu.be/bt_0cP8sHwE)
 
+## Базовая логика для спавна акторов в миру.
+[![Спавн актор классов в миру.](Pic/ScreeMini-03.png)](https://youtu.be/85wLTthyzJs)
 
 
 
