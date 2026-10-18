@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\02_ue4\\00_sirgassystem\\sirgassystemgame\\plugins\\sirgassystem\\source\\sirgassystem\\private\\sirgassystem.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\02_ue4\\00_sirgassystem\\sirgassystemgame\\intermediate\\build\\win64\\x64\\sirgassystemgameeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.valexpapi.cpp20.h.pch",
+        "Includes": [
+            "d:\\02_ue4\\00_sirgassystem\\sirgassystemgame\\plugins\\sirgassystem\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\sirgassystem\\definitions.sirgassystem.h",
+            "d:\\02_ue4\\00_sirgassystem\\sirgassystemgame\\plugins\\sirgassystem\\source\\sirgassystem\\public\\sirgassystem.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

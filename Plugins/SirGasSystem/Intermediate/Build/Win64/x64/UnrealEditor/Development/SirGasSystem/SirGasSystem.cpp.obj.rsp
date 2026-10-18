@@ -1,0 +1,14 @@
+"D:/02_UE4/00_SirGasSystem/SirGasSystemGame/Plugins/SirGasSystem/Source/SirGasSystem/Private/SirGasSystem.cpp"
+@"D:/02_UE4/00_SirGasSystem/SirGasSystemGame/Plugins/SirGasSystem/Intermediate/Build/Win64/x64/UnrealEditor/Development/SirGasSystem/SirGasSystem.Shared.rsp"
+/FI"D:/02_UE4/00_SirGasSystem/SirGasSystemGame/Intermediate/Build/Win64/x64/SirGasSystemGameEditor/Development/UnrealEd/SharedPCH.UnrealEd.Project.ValApi.ValExpApi.Cpp20.h"
+/FI"D:/02_UE4/00_SirGasSystem/SirGasSystemGame/Plugins/SirGasSystem/Intermediate/Build/Win64/x64/UnrealEditor/Development/SirGasSystem/Definitions.SirGasSystem.h"
+/Yu"D:/02_UE4/00_SirGasSystem/SirGasSystemGame/Intermediate/Build/Win64/x64/SirGasSystemGameEditor/Development/UnrealEd/SharedPCH.UnrealEd.Project.ValApi.ValExpApi.Cpp20.h"
+/Fp"D:/02_UE4/00_SirGasSystem/SirGasSystemGame/Intermediate/Build/Win64/x64/SirGasSystemGameEditor/Development/UnrealEd/SharedPCH.UnrealEd.Project.ValApi.ValExpApi.Cpp20.h.pch"
+/Fo"D:/02_UE4/00_SirGasSystem/SirGasSystemGame/Plugins/SirGasSystem/Intermediate/Build/Win64/x64/UnrealEditor/Development/SirGasSystem/SirGasSystem.cpp.obj"
+/experimental:log "D:/02_UE4/00_SirGasSystem/SirGasSystemGame/Plugins/SirGasSystem/Intermediate/Build/Win64/x64/UnrealEditor/Development/SirGasSystem/SirGasSystem.cpp.sarif"
+/sourceDependencies "D:/02_UE4/00_SirGasSystem/SirGasSystemGame/Plugins/SirGasSystem/Intermediate/Build/Win64/x64/UnrealEditor/Development/SirGasSystem/SirGasSystem.cpp.dep.json"
+/nologo
+/TP
+/GR-
+/std:c++20
+/wd5054

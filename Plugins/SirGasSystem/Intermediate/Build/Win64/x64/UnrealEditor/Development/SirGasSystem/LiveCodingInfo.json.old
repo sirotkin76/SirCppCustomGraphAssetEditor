@@ -1,0 +1,27 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.SirGasSystem.cpp.obj": [
+			"SGSCppAbilitySystemComponent.gen.cpp.obj",
+			"SGSCppAbilityTask_PlayMontageAndWaitForEvent.gen.cpp.obj",
+			"SGSCppAbilityTypes.gen.cpp.obj",
+			"SGSCppAsyncTaskAttributeChanged.gen.cpp.obj",
+			"SGSCppAttributeSet.gen.cpp.obj",
+			"SGSCppCharacterBase.gen.cpp.obj",
+			"SGSCppGameplayAbility.gen.cpp.obj",
+			"SGSCppTargetType.gen.cpp.obj",
+			"SirGasSystem.init.gen.cpp.obj",
+			"PerModuleInline.gen.cpp.obj",
+			"SGSCppAbilitySystemComponent.cpp.obj",
+			"SGSCppAbilityTask_PlayMontageAndWaitForEvent.cpp.obj",
+			"SGSCppAbilityTypes.cpp.obj",
+			"SGSCppAttributeSet.cpp.obj",
+			"SGSCppGameplayAbility.cpp.obj",
+			"SGSCppTargetType.cpp.obj",
+			"SGSCpp.cpp.obj",
+			"SGSCppAsyncTaskAttributeChanged.cpp.obj",
+			"SGSCppCharacterBase.cpp.obj",
+			"SirGasSystem.cpp.obj"
+		]
+	}
+}

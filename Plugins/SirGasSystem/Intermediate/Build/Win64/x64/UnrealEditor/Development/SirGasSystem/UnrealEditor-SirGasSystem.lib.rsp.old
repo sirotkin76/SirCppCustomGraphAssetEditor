@@ -1,0 +1,12 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/experimental:deterministic
+/DEF
+/NAME:"UnrealEditor-SirGasSystem.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:/02_UE4/00_SirGasSystem/SirGasSystemGameGit/Intermediate/Build/Win64/x64/SirGasSystemGameEditor/Development/UnrealEd/SharedPCH.UnrealEd.Project.ValApi.ValExpApi.Cpp20.h.obj"
+"D:/02_UE4/00_SirGasSystem/SirGasSystemGameGit/Plugins/SirGasSystem/Intermediate/Build/Win64/x64/UnrealEditor/Development/SirGasSystem/Module.SirGasSystem.cpp.obj"
+/OUT:"D:/02_UE4/00_SirGasSystem/SirGasSystemGameGit/Plugins/SirGasSystem/Intermediate/Build/Win64/x64/UnrealEditor/Development/SirGasSystem/UnrealEditor-SirGasSystem.lib"
